@@ -1,16 +1,37 @@
-## Hi there 👋
+<div align="right">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</div>
 
-<!--
-**DevJpss/DevJpss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi! I'm Koshida! ⚡
 
-Here are some ideas to get you started:
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>🇺🇸 English</h3>
+      <p>My name is <b>João</b>, but you can call me <b>Koshida</b>.</p>
+      <p>I'm very curious about technology in general, especially regarding <b>how things work under the hood</b>.</p>
+      <p>I'm building a solid foundation in programming with amazing professors in my <b>Systems Analysis and Development</b> degree, and I'm always busy with some different personal project.</p>
+      <p>🎯 <b>My Goal:</b> One day, I want to create a successful <b>100% Brazilian MMORPG</b>.</p>
+    </td>
+    <td valign="top" width="50%">
+      <h3>🇧🇷 Português</h3>
+      <p>Meu nome é <b>João</b>, mas pode me chamar de <b>Koshida</b>.</p>
+      <p>Sou muito curioso sobre tecnologia em geral, especialmente sobre <b>como as coisas funcionam por baixo dos panos</b>.</p>
+      <p>Estou construindo uma base sólida em programação com professores incríveis na minha faculdade de <b>Análise e Desenvolvimento de Sistemas</b> (IFBA), e estou sempre ocupado com algum projeto pessoal diferente.</p>
+      <p>🎯 <b>Meu Objetivo:</b> Um dia, quero criar um <b>MMORPG 100% brasileiro</b> de sucesso.</p>
+    </td>
+  </tr>
+</table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+  <a href="mailto:joaopaulodsspessoal@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.linkedin.com/in/joaopsouzas" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
+
+<br clear="right"/>
+
+### 🛠️ Languages and Tools
