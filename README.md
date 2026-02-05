@@ -4,8 +4,6 @@
       
   <img src="./ordem.png" alt="Koshida Art" width="100%" style="border-radius: 10px;" />
       
-  <br><br>
-      
   <h3>Stack</h3>
       <div style="display: flex; justify-content: center; gap: 5px;">
         <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -36,10 +34,6 @@
         I'm building a solid foundation in programming at my <b>Systems Analysis and Development</b> degree (IFBA), and I'm always busy with a personal project.
       </p>
       <p>🎯 <b>Goal:</b> Create a successful <b>100% Brazilian MMORPG</b>.</p>
-
-  <br>
-      <hr> <br>
-
   <h3>🇧🇷 Português</h3>
       <p>
         Meu nome é <b>João</b>, mas pode me chamar de <b>Koshida</b>.<br>
