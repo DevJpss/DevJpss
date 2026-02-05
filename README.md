@@ -12,8 +12,8 @@
         <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" title="Java" />
         <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" />
         
-  <span style="font-size: 25px; color: #30363d;">|</span>
-        
+   <br>
+      <hr>
   <a href="https://www.linkedin.com/in/joaopsouzas" target="_blank">
           <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" title="LinkedIn" />
         </a>
@@ -32,12 +32,7 @@
         I'm building a solid foundation in programming at my <b>Systems Analysis and Development</b> degree (IFBA), and I'm always busy with a personal project.
       </p>
       <p>🎯 <b>Goal:</b> Create a successful <b>100% Brazilian MMORPG</b>.</p>
-
-  <br>
-      <hr>
-      <br>
-
-  <h3>🇧🇷 Português</h3>
+<h3>🇧🇷 Português</h3>
       <p>
         Meu nome é <b>João</b>, mas pode me chamar de <b>Koshida</b>.<br>
         Sou muito curioso sobre tecnologia, especialmente <b>como as coisas funcionam por baixo dos panos</b>.
