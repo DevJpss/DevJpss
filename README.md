@@ -1,6 +1,7 @@
 <div align="right">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-</div>
+  <img src="./ordem.png" width="350" alt="Arte Ordem Paranormal" />
+
+  </div>
 
 # Hi! I'm Koshida! ⚡
 
