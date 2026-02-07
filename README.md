@@ -21,7 +21,7 @@ para áreas mais complexas do desenvolvimento.
 - Linux (básico)
 
 ## 📂 Repositórios
-- [`c-basics`](https://github.com/koshida/c-basics)  
+- [`c-basics`](https://github.com/DevJpss/c-basics)  
   Exercícios e exemplos básicos em C
 
 - [`logic-exercises`](https://github.com/koshida/logic-exercises)  
