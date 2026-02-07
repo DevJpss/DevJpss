@@ -1,5 +1,5 @@
 # Koshida
-> estudante de programação • fundamentos • linguagem C
+> Estudante de programação • Fundamentos • Linguagem C
 
 Atualmente estudando programação com foco em lógica,
 fundamentos de computação e linguagem C.
